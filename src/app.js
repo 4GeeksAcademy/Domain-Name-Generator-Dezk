@@ -1,6 +1,3 @@
-/* eslint-disable */
-import "bootstrap";
-
 let pronoun = ["el", "un", "algun", "otro"];
 let adj = ["gran", "super", "genial"];
 let noun = ["futbolista", "boxeador", "programador", "doctor", "constructor"];
