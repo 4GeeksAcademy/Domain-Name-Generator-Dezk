@@ -1,6 +1,5 @@
 /* eslint-disable */
 import "bootstrap";
-import "bootstrap";
 
 let pronoun = ["el", "un", "algun", "otro"];
 let adj = ["gran", "super", "genial"];
